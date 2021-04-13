@@ -1,7 +1,14 @@
 # Creating Custom Callbacks in Keras
+
 ## To view the video
-* [Click here](https://youtu.be/o8bVb9NYzDw)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=o8bVb9NYzDw" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/o8bVb9NYzDw?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Creating Custom Callbacks in Keras](http://img.youtube.com/vi/o8bVb9NYzDw/0.jpg)](http://www.youtube.com/watch?v=o8bVb9NYzDw)
 
